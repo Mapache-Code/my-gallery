@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://my-gallery-gb3yn9dz2.vercel.app>
+    <a href="https://my-gallery-gb3yn9dz2.vercel.app">
       Demo
     </a>
     <span> | </span>
